@@ -1,0 +1,14 @@
+C:\Users\ctw01015\Desktop\Training Projects\Commander\bin\Debug\netcoreapp2.2\Commander.deps.json
+C:\Users\ctw01015\Desktop\Training Projects\Commander\bin\Debug\netcoreapp2.2\Commander.runtimeconfig.json
+C:\Users\ctw01015\Desktop\Training Projects\Commander\bin\Debug\netcoreapp2.2\Commander.runtimeconfig.dev.json
+C:\Users\ctw01015\Desktop\Training Projects\Commander\bin\Debug\netcoreapp2.2\Commander.dll
+C:\Users\ctw01015\Desktop\Training Projects\Commander\bin\Debug\netcoreapp2.2\Commander.pdb
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.csprojAssemblyReference.cache
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.csproj.CoreCompileInputs.cache
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.RazorAssemblyInfo.cache
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.RazorAssemblyInfo.cs
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.AssemblyInfoInputs.cache
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.AssemblyInfo.cs
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.RazorTargetAssemblyInfo.cache
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.dll
+C:\Users\ctw01015\Desktop\Training Projects\Commander\obj\Debug\netcoreapp2.2\Commander.pdb
